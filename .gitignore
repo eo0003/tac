@@ -109,3 +109,30 @@ tac_venv/
 .vscode/settings.json
 .DS_Store
 */tmp/*
+
+# === TP2 ===
+# Données brutes locales (ne pas pousser)
+data/
+*.zip
+# Environnements locaux
+.venv/
+# Caches
+.ipynb_checkpoints/
+.DS_Store
+
+# === TP2 ===
+# Données brutes locales (ne pas pousser)
+data/
+*.zip
+# Environnements locaux
+.venv/
+# Caches
+.ipynb_checkpoints/
+.DS_Store
+
+# == TP2 ==
+# Données brutes locales (ne pas pousser)
+data/
+*.zip
+.ipynb_checkpoints/
+.DS_Store
