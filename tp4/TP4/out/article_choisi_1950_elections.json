@@ -1,0 +1,22 @@
+{
+  "year": 1950,
+  "theme": "resultats_electoraux",
+  "file": "../data/txt/1950/KB_JB838_1950-10-28_01-00005.txt",
+  "score": 14,
+  "matched_keywords": [
+    "election",
+    "electoral",
+    "vote",
+    "voter",
+    "resultat",
+    "majorite",
+    "parti",
+    "partis",
+    "depute",
+    "deputes",
+    "parlement",
+    "gouvernement",
+    "liste",
+    "siege"
+  ]
+}
